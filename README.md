@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=25&center=true&vCenter=true&width=1000&lines=Hey,+MY+NAME+is+Pedro+Henrique+Ferrari;I+study+analysis+and+systems+development+at+UniSantos;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
-# Pleasure, welcome 👋
+# Pleasure👋
 
 <table>
   <tr>

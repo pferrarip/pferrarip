@@ -1,9 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=25&center=true&vCenter=true&width=1000&lines=Hey,+MY+NAME+is+Pedro+Henrique+Ferrari;I+study+analysis+and+systems+development+at+UniSantos;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
-
-# Pleasure👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=25&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Pedro+Henrique+Ferrari+Brogliato;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <table>
   <tr>
@@ -17,11 +14,34 @@ Hello! I'm a **Systems Analysis and Development** student at **Unisantos**. Prev
 
 </td>
     <td>
-      <img src="https://github.com/seu-usuario/seu-repositorio/blob/main/gif.gif?raw=true" width="250"/>
+      <img src="https://github.com/pferrarip/pferrarip/blob/main/gif.gif" width="280" height="300"/>
     </td>
   </tr>
 </table>
 
+<h2 align="center">🛠️ My Skills</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"/>
+</p>
+
+---
 
 <div align="center">
 <a href="https://github.com/pferrarip">
@@ -42,7 +62,20 @@ Hello! I'm a **Systems Analysis and Development** student at **Unisantos**. Prev
        title="Follow me on GitHub" 
        src="https://custom-icon-badges.herokuapp.com/github/followers/pferrarip?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
- 
 
+ <p align="center">
+  <a href="https://www.linkedin.com/in/phferrarii" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:p.ferraribrogliato@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+    <a href="https://seusite.com">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=footer"/>
 
   
